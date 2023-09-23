@@ -1,0 +1,9 @@
+.hell
+{
+
+    background-color: aqua;
+    justify-content: center;
+    display: flex;
+    gap: 1rem;
+    height: 50px;
+}
